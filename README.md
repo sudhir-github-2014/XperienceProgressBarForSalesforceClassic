@@ -15,7 +15,9 @@
     Version 1.3
     
       Use this URL to install the package into any organization:
-      https://login.salesforce.com/packaging/installPackage.apexp?p0=04t90000000NOPH 
+      
+      		https://login.salesforce.com/packaging/installPackage.apexp?p0=04t90000000NOPH 
+      
       Note: If you are installing into a sandbox organization you must replace the initial portion of the URL with http://test.salesforce.com
    
   Step #2
